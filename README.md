@@ -29,7 +29,7 @@ This project is a comprehensive Excel-based data analysis on a car sales dataset
   - Conditional Formatting
   - Formulas (SUMIFS, COUNTIF, etc.)
 
-## 📁 Project Structure
+
 
 
 
